@@ -15,7 +15,7 @@ void main(void)
     
     while(1)
     {
-        PORTDbits.RD7 = 0;
+        PORTDbits.RD7 = 1;
         __delay_ms(500);
         PORTDbits.RD7 = 0;
         __delay_ms(500);
