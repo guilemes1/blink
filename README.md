@@ -4,6 +4,6 @@ Projeto abordando os conceitos básicos de programação do microcontrolador PIC
 
 ## Ferramentas utilizadas
 
-A plataforma utilizada para o desenvolvimento do projeto é o MPLABX.
+* A plataforma utilizada para o desenvolvimento do projeto é o MPLABX.
 
-O compilador é o XC8.
+* O compilador é o XC8.
